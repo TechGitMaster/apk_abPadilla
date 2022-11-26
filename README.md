@@ -1,7 +1,7 @@
 # apk_abPadilla
 
 ![qrcode](https://user-images.githubusercontent.com/52535645/204088877-35751eee-e432-43ff-8370-b9e5cd9488cd.png)
-Scan the QR code to download the apk
+SCAN THE QR CODE TO DOWNLOAD THE APK
 
 ![1](https://user-images.githubusercontent.com/52535645/204088703-c0970c7b-539b-4f57-8126-24c9e8532a6f.png)
 ![2](https://user-images.githubusercontent.com/52535645/204088783-ff07ac91-ce6e-4648-adcc-007359dd6bce.jpg)
